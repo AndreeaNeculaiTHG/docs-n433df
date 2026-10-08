@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-f77y35.quietmatches.com/sitemap.xml
